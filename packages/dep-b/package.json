@@ -1,0 +1,11 @@
+{
+  "name": "@monorepo/dep-b",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'ALL [PACKAGE-B] TESTS PASSED!'"
+  },
+  "author": "",
+  "license": "ISC"
+}
